@@ -40,3 +40,12 @@ PLACES
   </footer>
 </body>
 </html>
+<section id="galeria">
+  <h2>Galería del jardín</h2>
+  <div class="grid">
+    <img src="foto1.jpg" alt="Permacultura 1">
+    <img src="foto2.jpg" alt="Permacultura 2">
+    <img src="foto3.jpg" alt="Permacultura 3">
+    <img src="foto4.jpg" alt="Permacultura 4">
+  </div>
+</section>
